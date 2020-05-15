@@ -1,0 +1,1 @@
+for checking to branch using git branch <branch name>. select branch git checkout <branch name>
